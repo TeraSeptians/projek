@@ -27,7 +27,7 @@
                         </div>
                     </div>
                         <div class="card-body">
-                          <table id="data_matapelajaran" class="table table-striped">
+                          <table id="data_matapelajaran" class="table table-striped table table-dark table-sm">
                             <thead>
                                 <tr>
                                     <th>No</th>
@@ -36,12 +36,6 @@
                                     <th>#</th>
                                 </tr>
                             </thead>
-                            <tr>
-                                <th>1.</th>
-                                <th>170904</th>
-                                <th>Matematika</th>
-                                <th>#</th>
-                            </tr>
                           </table>
                         </div>
                     </div>

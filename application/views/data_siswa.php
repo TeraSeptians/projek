@@ -27,7 +27,7 @@
                         </div>
                     </div>
                         <div class="card-body">
-                          <table id="data_siswa" class="table table-bordered table-sm">
+                          <table id="data_siswa" class="table table-bordered table table-danger table-sm">
                             <thead>
                                     <th>No</th>
                                     <th>NIS</th>
@@ -36,14 +36,6 @@
                                     <th>Kelas</th>
                                     <th>#</th>
                             </thead>
-                                <tr>
-                                    <th>1.</th>
-                                    <th>2021105851</th>
-                                    <th>Tera</th>
-                                    <th>Laki-Laki</th>
-                                    <th>XII-K2</th>
-                                    <th>#</th>
-                                </tr>
                           </table>
                         </div>
                     </div>

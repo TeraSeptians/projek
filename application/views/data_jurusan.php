@@ -27,21 +27,15 @@
                         </div>
                     </div>
                         <div class="card-body">
-                          <table id="data_jurusan" class="table table-striped">
+                          <table id="data_jurusan" class="table table-striped table table-success table-sm">
                             <thead>
-                                <tr>
+                                <tr >
                                     <th>No</th>
                                     <th>Kode Jurusan</th>
                                     <th>Nama Jurusan</th>
                                     <th>#</th>
                                 </tr>
                             </thead>
-                            <tr>
-                                <th>1</th>
-                                <th>170904</th>
-                                <th>Rekayasa Perangkat Lunak</th>
-                                <th>#</th>
-                            </tr>
                           </table>
                         </div>
                     </div>
