@@ -70,19 +70,19 @@
   <div class="mb-3 row">
     <label for="nama_kelas" class="col-sm-4 col-form-label">Jurusan</label>
     <div class="col-sm-8">
-      <input type="text" class="form-control" id="nama_kelas">
+      <input type="text" class="form-control" id="jurusan">
     </div>
   </div>
   <div class="mb-3 row">
     <label for="nama_kelas" class="col-sm-4 col-form-label">Jumlah Siswa</label>
     <div class="col-sm-8">
-      <input type="text" class="form-control" id="nama_kelas">
+      <input type="text" class="form-control" id="jmlh_siswa">
     </div>
   </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button id="simpan" type="button" class="btn btn-primary">Save changes</button>
       </div>
     </div>
   </div>

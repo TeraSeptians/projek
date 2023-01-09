@@ -285,6 +285,9 @@
 <!-- REQUIRED SCRIPTS -->
 
 <!-- jQuery -->
+<script>
+  var base_url = "<?= base_url()."index.php/"?>";
+</script>
 <script src="<?= base_url('assets/plugins/jquery/jquery.min.js')?>"></script>
 <!-- Bootstrap -->
 <script src="<?= base_url('assets/plugins/bootstrap/js/bootstrap.bundle.min.js')?>"></script>
@@ -298,6 +301,7 @@
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
 <script src="<?= base_url('assets/dist/js/pages/dashboard3.js')?>"></script>
 <script src="<?= base_url('assets/vendor/DataTables/datatables.min.js') ?>"></script>
+<script src="<?= base_url('assets/vendor/sweetalert/sweetalert.min.js') ?>"></script>
 <script src="<?= base_url('pages/'.$this->input->get('p')).'.js' ?>"></script>
 </body>
 </html>
