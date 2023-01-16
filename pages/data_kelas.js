@@ -23,7 +23,7 @@ $("#simpan").click(function(){
             Swal.fire({
                 icon: 'success',
                 title: 'Sistem sukses',
-                text: 'res.hasil',
+                text: res.hasil,
               })
         }
     });
